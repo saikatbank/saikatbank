@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saikatbank
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning ML,SQL,POWER BI
+- 🌱 I’m currently learning ML,DL,SQL,POWER BI
 - 💞️ I’m looking to collaborate on Data Science Project
 - 📫 How to reach me saikatbank101@gmail.com
 
