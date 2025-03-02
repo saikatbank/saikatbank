@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @saikatbank
-- 👀 I’m interested in DevOps
+- 👀 I’m interested in Cloud & DevOps
 - 🌱 I’m currently working in SproutsAI
 - 💞️ I’m looking to collaborate on DevOps Project
 - 📫 How to reach me saikatbank101@gmail.com
