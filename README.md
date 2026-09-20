@@ -66,19 +66,22 @@ boring — the way it should be.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=saikatbank&show_icons=true&hide_title=true&hide_border=true&count_private=true" alt="GitHub stats" height="165">
 <img src="https://streak-stats.demolab.com/?user=saikatbank&hide_border=true" alt="GitHub streak stats" height="165">
 
 </div>
 
-Consistently building, automating, and contributing — commit history and streak above reflect
-live GitHub data.
+Consistently building, automating, and contributing — streak and totals above reflect live
+GitHub data.
 
 <br>
 
 ## Engineering Focus
 
-Currently exploring: `<add what you're learning/exploring right now>`
+Currently exploring:
+
+- GitOps and platform engineering practices
+- Cloud cost optimization / FinOps
+- Applying AI to infrastructure automation and tooling
 
 <br>
 
@@ -88,8 +91,7 @@ Currently exploring: `<add what you're learning/exploring right now>`
 
 | | |
 |---|---|
-| LinkedIn | `<add LinkedIn URL>` |
+| LinkedIn | [linkedin.com/in/saikatbank101](https://www.linkedin.com/in/saikatbank101/) |
 | Email | saikatbank101@gmail.com |
-| Website | `<add website/portfolio URL>` |
 
 </div>
