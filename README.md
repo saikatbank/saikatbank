@@ -40,6 +40,7 @@ boring — the way it should be.
 **Infrastructure as Code**
 
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
 
 **CI/CD**
 
@@ -51,10 +52,11 @@ boring — the way it should be.
 <tr>
 <td valign="top" colspan="2">
 
-**Programming & Scripting**
+**Systems & Scripting**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 </td>
 </tr>
